@@ -1,3 +1,14 @@
 # Muhammad Essa Portfolio
 
-Portfolio with water-liquid hero image hover interaction.
+React + TypeScript + Vite portfolio with an interactive water-liquid hero image effect.
+
+## Local preview
+
+```bash
+npm install
+npm run dev
+```
+
+## Vercel
+
+The included `vercel.json` configures the Vite build and `dist` output.
